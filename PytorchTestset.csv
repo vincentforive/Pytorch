@@ -1,9 +1,8 @@
-End1.png,0
-End2.png,0
+End.png,0
 NoEntry1.png,3
 NoEntry2.PNG,3
-NoLeft.png,4
-NoLeft10.png,4
+NoLeft1.png,4
+NoLeft2.png,4
 NoRight.png,5
 NoRight1.png,5
 NoUturn1.png,1
@@ -12,3 +11,5 @@ Stop77.PNG,6
 Stop771.PNG,6
 StopAllDay1.png,2
 StopAllDay4.png,2
+NoStud1.png,7
+NoStud2.png,7
